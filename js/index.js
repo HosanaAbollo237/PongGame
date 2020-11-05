@@ -3,7 +3,8 @@ function setup(){
     createCanvas(624, 351)
 }
 
-// Remplissage du canvas
+// Remplissage de couleur du canvas
 function draw(){
-    background(0)
+    background('rgba(0,255,0, 0.25)')
 }
+
